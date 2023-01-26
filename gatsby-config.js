@@ -14,8 +14,8 @@ module.exports = {
       name: `Shawn Borton`,
       summary: `Drupal and PHP expert, Christian, rabid Dallas Stars fan, devoted Texas Longhorns alum, lover of libraries, coffee shops, and quiet places.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Welcome to my digital garden.`,
+    siteUrl: `https://shawnborton.dev`,
     social: {
       twitter: `quakerpunk`,
       mastodon: `https://fosstodon.org/@ShawnBinTx`,
@@ -112,7 +112,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Blog / Shawn Borton`,
-        short_name: `Gatsby`,
+        short_name: `My Digital Garden`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
