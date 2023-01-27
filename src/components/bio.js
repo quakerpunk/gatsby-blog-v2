@@ -49,7 +49,7 @@ const Bio = () => {
           <br />
           <strong>Socials:</strong>{` `}
           <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>,{` `}
-          <a href={`${social.mastodon}`}>Mastodon</a>
+          <a rel="me" href={`${social.mastodon}`}>Mastodon</a>
         </p>
       )}
     </div>
