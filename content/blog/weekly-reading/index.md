@@ -1,6 +1,7 @@
 ---
 title: "Weekly Reading"
 description: "All the Weekly Reading columns, in one place"
+date: 2022-12-31
 ---
 
 ### Weekly Reading
