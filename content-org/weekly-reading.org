@@ -1,1 +1,8 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: blog/weekly-reading
+#+HUGO_FRONT_MATTER_FORMAT: yaml
+#+HUGO_TAGS: weekly-reading
+#+DESCRIPTION: Weekly Reading Posts
 #+TITLE: Weekly Reading
+
+* Volume 9
