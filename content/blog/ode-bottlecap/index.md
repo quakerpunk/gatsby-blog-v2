@@ -1,0 +1,37 @@
+---
+title: "Ode to a Lost Bottlecap"
+description: "Those who wander aren't necessarily lost."
+date: "2023-01-29"
+tags: ["poetry"]
+---
+
+When I go to a hockey game, I typically spend those 60 minutes of game time nursing a bottle of soda. I had never lost a bottlecap...until this week, when careless misalignment caused the cap to fly off the bottle and into oblivion (read: under another seat). I joked with my wife that I should pen an ode to this wayward cap and that it perhaps found its way to the land where lost socks and Tupperware lids go.
+
+Problem is that I'm no poet. Sure, I can write a rhyming scheme, but I'm ignorant when it comes to proper meter. So I reached out to a poet I knew could help: ChatGPT.
+
+Below is the fruits of our efforts. ChatGPT did the writing and I massaged the text since it had issue with repeating words.
+
+> Lost bottlecap, now joined with socks astray
+> And Tupperware lids that wandered far away
+> A band of misfits, traveling the land
+> In search of a place where they can stand
+>
+> Together they set out, like Argo's crew
+> On a journey to find and pursue
+> With each step they take, they count the days
+> Bonding together, in brotherly ways
+>
+> But now adrift, like Odysseus' crew
+> Reliving past tales of glory, fleeting as the dew
+> The bottlecap dreams of Mount Olympus' height
+> And the lids and socks, they too long for the sight
+>
+> But as they roam, they find solace in each other
+> Like the muses of old, they sing and they gather
+> For they are a team, Achilles and Patroclus
+> United in their search, never to be hidden from us.
+>
+> So here's to the lost, the brave, the few
+> May their journey be filled with hope and virtue
+> For though they're not found, they'll always remain
+> In the hearts of many, like mythic terrain.
