@@ -1,0 +1,13 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: blog/back-blogging
+#+HUGO_FRONT_MATTER_FORMAT: yaml
+#+HUGO_TAGS: blog
+#+DESCRIPTION: Look who's back
+#+TITLE: Back to Blogging
+#+DATE: 2023-01-28
+
+* Back to Blogging
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:END:
+Just a quick note to let y'all know I've fired up the blog again. I'll provide a more in-depth review of the process (new repo with Gatsby v5) later.
