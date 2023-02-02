@@ -1,13 +1,15 @@
 ---
 title: "An Update on my Personal Projects"
+author: ["Shawn Borton"]
 description: "An update on some projects I started a while back."
 date: 2023-02-01
 tags: ["projects"]
+draft: false
 ---
 
-It's been a while since I discussed some personal projects I had in mind.
+It's been a while since I discussed some [personal projects](/projects) I had in mind.
 
-## The Smartening of My (Not So) New Home
+## The Smartening of My (Not So) New Home 
 
 > I've already set up [Home Assistant](https://www.home-assistant.io) and established a new Z-Wave network with a smart plug that powers a standing floor lamp. My first automation switches the light on if I'm out shortly before sunset.
 
@@ -15,7 +17,7 @@ Since then, I've added more Z-Wave plugs, giving me remote control over a standi
 
 I've got Home Assistant tapped into Alexa for one of the most popular automations: letting the dogs know it's time for treats. I used to run this automatically, but I've since decided it's better to just trigger it myself, in case they get too excited and can't possibly wait any longer. I've tried to stay away from letting Big Tech run the house, but I have some Alexa routines. I've networked the Echo devices to serve as a whole-home audio system and during weekdays, those routines ensure there's some kind of music going on, whether it's jazz, '80s music, or epic soundtracks.
 
-## A File Server (and much more)
+## A File Server (and much more) 
 
 > Of course, a smart home also needs a massive home server. The server is based on [OpenMediaVault](https://www.openmediavault.org/) with services running in Docker.
 
@@ -27,16 +29,16 @@ I still have the Pi-Hole, no issues there. I set up a second instance for buildi
 
 But from one file server sprang a small homelab. Besides that Pi and file server, I've got an ASUS-based NUC running Proxmox. It's nothing special, certainly not a beast running Xeon chips and rocking 128GB of memory, but it's been fun to mess around with it. I've got a virtual machine for [Archcraft](https://archcraft.io), which is becoming my daily driver (it's very cool being able to run the same environment on an old MacBook or a new Amazon Fire HD 10). The remaining resources are likely going towards some experiments. I also have a second Raspberry Pi with some public-facing services like FreshRSS and Syncthing.
 
-## The Security of My New House
+## The Security of My New House 
 
 I do have cameras watching the front and the back of the house, but it's mostly rabbits setting off our LED floodlights in the backyard and cars driving by on the street outside.
 
 I did purchase a backup battery for when the power goes out, but no UV lights or solar cells...yet.
 
-## Netlify to Discord
+## Netlify to Discord 
 
 Uhhh, no. :)
 
-## A New Programming Language
+## A New Programming Language 
 
 I learned a little Go, but didn't do much with it. I fell down the Emacs rabbit hole in the middle of 2022 and I've been itching to learn some Lisp, but for now, I'm furthering my career by studying TypeScript. That's definitely a language I could see nudging PHP out as my preferred web development language.
