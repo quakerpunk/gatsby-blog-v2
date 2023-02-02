@@ -3,7 +3,7 @@
 #+HUGO_FRONT_MATTER_FORMAT: yaml
 #+HUGO_TAGS: projects
 #+TITLE: Personal Project Update
-#+DATE: 2022-02-01
+#+DATE: 2023-02-01
 #+DESCRIPTION: An update on some projects I started a while back.
 
 * An Update on my Personal Projects
