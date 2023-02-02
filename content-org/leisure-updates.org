@@ -1,0 +1,39 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: blog/project-updates
+#+HUGO_FRONT_MATTER_FORMAT: yaml
+#+HUGO_TAGS: projects
+#+TITLE: Personal Project Update
+#+DATE: 2022-02-01
+#+DESCRIPTION: An update on some projects I started a while back.
+
+* An Update on my Personal Projects
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:END:
+It's been a while since I discussed some personal projects I had in mind.
+** The Smartening of My (Not So) New Home
+#+begin_quote
+I've already set up [[https://www.home-assistant.io][Home Assistant]] and established a new Z-Wave network with a smart plug that powers a standing floor lamp. My first automation switches the light on if I'm out shortly before sunset.
+#+end_quote
+Since then, I've added more Z-Wave plugs, giving me remote control over a standing lamp in the living room and a couple of lamps along a sideboard in the media room. All these lights come on around sunset and have automatic shutoffs late at night. I've also created a custom action pushed to my iPhone, which when long-tapped, provides a "Turn Off All Lights" option.
+
+I've got Home Assistant tapped into Alexa for one of the most popular automations: letting the dogs know it's time for treats. I used to run this automatically, but I've since decided it's better to just trigger it myself, in case they get too excited and can't possibly wait any longer. I've tried to stay away from letting Big Tech run the house, but I have some Alexa routines. I've networked the Echo devices to serve as a whole-home audio system and during weekdays, those routines ensure there's some kind of music going on, whether it's jazz, '80s music, or epic soundtracks.
+** A File Server (and much more)
+#+begin_quote
+Of course, a smart home also needs a massive home server. The server is based on [[https://www.openmediavault.org/][OpenMediaVault]] with services running in Docker.
+#+end_quote
+I need to get it upgraded to version 6.x, but it's been chugging along with no problems.
+
+The aforementioned services include [[https://jellyfin.org][Jellyfin]], Home Assistant, Portainer, and Watchtower. In addition, I'm running zwavejs2mqtt (which is now [[https://github.com/zwave-js/zwave-js-ui][zwave-js-ui]]) for the Z-Wave network, [[https://github.com/xteve-project/xTeVe][xTeVe]] to serve as an IPTV tuner for Jellyfin, and though I had [[https://gitea.io][Gitea]] up at one point, I felt like it wasn't useful.
+
+I still have the Pi-Hole, no issues there. I set up a second instance for building some fault tolerance to the network. It's testing right now and no problems reported so far.
+
+But from one file server sprang a small homelab. Besides that Pi and file server, I've got an ASUS-based NUC running Proxmox. It's nothing special, certainly not a beast running Xeon chips and rocking 128GB of memory, but it's been fun to mess around with it. I've got a virtual machine for [[https://archcraft.io][Archcraft]], which is becoming my daily driver (it's very cool being able to run the same environment on an old MacBook or a new Amazon Fire HD 10). The remaining resources are likely going towards some experiments. I also have a second Raspberry Pi with some public-facing services like FreshRSS and Syncthing.
+** The Security of My New House
+I do have cameras watching the front and the back of the house, but it's mostly rabbits setting off our LED floodlights in the backyard and cars driving by on the street outside.
+
+I did purchase a backup battery for when the power goes out, but no UV lights or solar cells...yet.
+** Netlify to Discord
+Uhhh, no. :)
+** A New Programming Language
+I learned a little Go, but didn't do much with it. I fell down the Emacs rabbit hole in the middle of 2022 and I've been itching to learn some Lisp, but for now, I'm furthering my career by studying TypeScript. That's definitely a language I could see nudging PHP out as my preferred web development language.
