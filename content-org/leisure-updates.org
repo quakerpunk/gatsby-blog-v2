@@ -3,14 +3,14 @@
 #+HUGO_FRONT_MATTER_FORMAT: yaml
 #+HUGO_TAGS: projects
 #+TITLE: Personal Project Update
-#+DATE: 2022-02-01
+#+DATE: 2023-02-01
 #+DESCRIPTION: An update on some projects I started a while back.
 
 * An Update on my Personal Projects
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :END:
-It's been a while since I discussed some personal projects I had in mind.
+It's been a while since I discussed some [[/projects][personal projects]] I had in mind.
 ** The Smartening of My (Not So) New Home
 #+begin_quote
 I've already set up [[https://www.home-assistant.io][Home Assistant]] and established a new Z-Wave network with a smart plug that powers a standing floor lamp. My first automation switches the light on if I'm out shortly before sunset.
