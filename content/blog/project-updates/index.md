@@ -1,7 +1,7 @@
 ---
 title: "An Update on my Personal Projects"
 description: "An update on some projects I started a while back."
-date: 2022-02-01
+date: 2023-02-01
 tags: ["projects"]
 ---
 
