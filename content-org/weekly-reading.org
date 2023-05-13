@@ -6,3 +6,40 @@
 #+TITLE: Weekly Reading
 
 * Volume 9
+I've been trying to restart this feature of the blog, but progress has been slow, due to the fact that I consume way more YouTube than the recommended daily allowance.
+
+Still, here are a couple of articles that piqued my interest...
+** Narrative and Metaverse, Pt. 1: The Living Word
+:PROPERTIES:
+:EXPORT_FILE_NAME: volume-9
+:END:
+Oh man, where to start with this one? I pushed this article to my Instapaper account and was highlighting every other sentence it seemed, netting me 12 notes in the process. Here are a few.
+#+begin_quote
+Narratives are as real and as alive as you and me.
+
+When I say that narratives are alive, I don’t mean this as a metaphor. I truly believe that narratives are an alien lifeform in exactly the same way that viruses are an alien lifeform.
+#+end_quote
+
+#+begin_quote
+How do you rule the world?
+
+By killing the ideas that do not serve your ruling interests, and by giving birth to the ones that do.
+#+end_quote
+
+#+begin_quote
+But I tell you there is a way out. A way through. A way up. A way to think differently about our lives so that we can make our way to the optimal equilibrium of the Stag Hunt, so that institutions of coordination and facilitated cooperation can actually work again.
+#+end_quote
+
+The site limits you to a selection of  articles, but you can sign up for free to get access to this one plus the other three in the Narrative and Metaverse series
+** Hopepunk, Optimism, Purity, and Futures of Hard Work by Ada Palmer
+This article gives an in-depth exploration of a realtively new genre called Hopepunk, defined as:
+#+begin_quote
+the kinds of tales where futuristic cyberhippies hunt through the refuse piles of consumerism for the upcyclable materials to build their green new worlds...
+#+end_quote
+More:
+#+begin_quote
+ In Hopepunk, people—often ordinary people, including minor characters—take a stand, resist, work together, follow through and help each other, and in the end, while some characters make bad choices, enough make good choices to leave a positive sense of the capacity of humans to choose good.
+#+end_quote
+#+begin_quote
+ Setbacks in hopepunk tend to be more about the outcome for the world, what now needs to be done to help or fix the problem, in contrast with stories where setbacks or failures are mainly beats in character development, the point where the hero must stand by his vow never to kill again, or prove her leadership skills to keep the team together.
+#+end_quote
