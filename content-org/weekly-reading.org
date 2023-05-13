@@ -6,13 +6,13 @@
 #+TITLE: Weekly Reading
 
 * Volume 9
+:PROPERTIES:
+:EXPORT_FILE_NAME: volume-9
+:END:
 I've been trying to restart this feature of the blog, but progress has been slow, due to the fact that I consume way more YouTube than the recommended daily allowance.
 
 Still, here are a couple of articles that piqued my interest...
 ** Narrative and Metaverse, Pt. 1: The Living Word
-:PROPERTIES:
-:EXPORT_FILE_NAME: volume-9
-:END:
 Oh man, where to start with this one? I pushed this article to my Instapaper account and was highlighting every other sentence it seemed, netting me 12 notes in the process. Here are a few.
 #+begin_quote
 Narratives are as real and as alive as you and me.
