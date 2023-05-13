@@ -37,9 +37,11 @@ This article gives an in-depth exploration of a realtively new genre called Hope
 the kinds of tales where futuristic cyberhippies hunt through the refuse piles of consumerism for the upcyclable materials to build their green new worlds...
 #+end_quote
 More:
+
 #+begin_quote
  In Hopepunk, people—often ordinary people, including minor characters—take a stand, resist, work together, follow through and help each other, and in the end, while some characters make bad choices, enough make good choices to leave a positive sense of the capacity of humans to choose good.
 #+end_quote
+
 #+begin_quote
  Setbacks in hopepunk tend to be more about the outcome for the world, what now needs to be done to help or fix the problem, in contrast with stories where setbacks or failures are mainly beats in character development, the point where the hero must stand by his vow never to kill again, or prove her leadership skills to keep the team together.
 #+end_quote
