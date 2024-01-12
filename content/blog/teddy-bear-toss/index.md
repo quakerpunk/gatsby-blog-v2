@@ -11,7 +11,7 @@ I've always wondered, what happens if the home team gets shutout? Surely they're
 
 Well, I'm not sure how **all** teams do it, but [here's what the Hershey Bears do in the event of a scoreless game](https://www.hersheybears.com/news/all-the-faqs-for-our-2024-giant-teddy-bear-toss-on-jan-7/):
 
-> **What happens if the Bears have not scored a goal during the GIANT Teddy bear Toss?**
+> **What happens if the Bears have not scored a goal during the GIANT Teddy Bear Toss?**
 >
 > The Bears are having a great season and we're fully planning on them scoring a goal that will send thousands of teddy bears flying! However, if Hershey has not scored a goal **by the end of the second period**, the GIANT Teddy Bear Toss will occur **during the second intermission**. Instructions on how to proceed will be announced in the arena.
 
