@@ -12,7 +12,7 @@
 :END:
 Typically, minor league hockey teams have a "Teddy Bear Toss" night at some point close to the holidays, the idea being the team donates the stuffed animals to local charities. At a "Teddy Bear Toss" night, when the home side scores their first goal, fans celebrate in part by throwing the stuffed animals onto the ice.
 
-I've always wondered, what happens if the home team gets shutout? Surely they're getting those teddy bears, right.
+I've always wondered, what happens if the home team gets shutout? Surely they're getting those teddy bears, right?
 
 Well, I'm not sure how *all* teams do it, but [[https://www.hersheybears.com/news/all-the-faqs-for-our-2024-giant-teddy-bear-toss-on-jan-7/][here's what the Hershey Bears do in the event of a scoreless game]]:
 
