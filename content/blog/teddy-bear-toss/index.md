@@ -13,6 +13,6 @@ Well, I'm not sure how **all** teams do it, but [here's what the Hershey Bears d
 
 > **What happens if the Bears have not scored a goal during the GIANT Teddy bear Toss?**
 >
-> The Bears are having a great season and we're fully planning on them scoring a goal that will send thousands of teddy bears flying! However, if Hershey has not scored a goal **by the end of the second period**, the GIANT Teddy Bear Toss will occur **during the second intermission**. Instructions on hot to proceed will be announced in the arena.
+> The Bears are having a great season and we're fully planning on them scoring a goal that will send thousands of teddy bears flying! However, if Hershey has not scored a goal **by the end of the second period**, the GIANT Teddy Bear Toss will occur **during the second intermission**. Instructions on how to proceed will be announced in the arena.
 
 Now I know, now you know.
