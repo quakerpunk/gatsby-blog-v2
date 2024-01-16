@@ -1,0 +1,79 @@
+---
+title: "An Open Letter to Cowboys Fans"
+description: "Talkin' 'bout another team with championship aspirations."
+date: 2024-01-15T00:00:00-06:00
+tags: ["hockey", "Dallas Stars"]
+draft: false
+---
+
+Well, that was a letdown. I'm curious to see what Jerry Jones is going to do as far as the coaching staff goes. My hope is that McCarthy is gone, Quinn is promoted to HC, and Jery, Stephen, and the brain trust goes out and hires the best offensive mind in the league.
+
+While the gears turn at 1 Cowboys Way, let's talk hockey, let's talk your Dallas Stars. In case you missed it, they were among the teams picked in the preseason to make it to the Stanley Cup Finals (no, not the faddish pink ones, the real one, the one that weighs roughly 30 pounds) and in some cases, predicted to win it all. There still in the discussion, but others have come up and made it be known that they are going to be tough outs come spring.
+
+
+## The Lay of the Land
+
+So let's start with a bird's-eye view of the league and how it's shaking out before discussing the Stars...
+
+
+### Division Leaders
+
+-   Central: Winnipeg Jets
+-   Pacific: Vancouver Canucks
+-   Metropolitan: New York Rangers
+-   Atlantic: Boston Bruins
+
+
+### Lady Luck is (not) Gold
+
+Vegas, Dallas' opponent in last year's Western Conference Finals, and defending Stanley Cup champions, roared out the gate early on, but have struggled with consistently lately. The low point? Likely the Winter Classic shutout against Seattle...speaking of which.
+
+
+### Lurking in the Deep
+
+Dallas' second-round opponent last year, Seattle, could be a wild-card team again this year, but find themselves just outside the cutoff line at this point in the season.
+
+
+### Mild Sauce
+
+And what of Minnesota, the first team Dallas faced in the playoffs? Dallas swept the season series with them, scoring 19-5 over 3 games, including Matt Murray's first NHL shutout. They are 7th out of 8 teams in the Central Division, awful on special teams, and on their second head coach. It's going to take them a bit to get back in the hunt for Lord Stanley's cup.
+
+
+### Striking Oil
+
+The hottest team? Edmonton. And this is after they fired their head coach in November, following a 3-9-1 start. I mean, down and out, likely missing the playoffs, throw out Jay Woodcroft, and have clawed their way back into contention. They're a wild-card team now, with half the season remaining.
+
+
+### Killer B's?
+
+Boston isn't setting records this year as far as the standings, but they're also not far off the pace they set last year. They have 61 points in the standings compared to 70 at this time last year, which is still good enough to put them in the top spot in the Atlantic Division.
+
+
+### A New Challenger
+
+The team no one so coming? Vancouver...unless you know all about Rick Tocchet's coaching style, I guess.
+
+
+## State of the Team
+
+As I press "Publish" on this blog post, Dallas has amassed 55 points in the standings, putting them in 3rd place in the Central Division. They're in good shape all things considered (more on that in a moment), staying pretty close to the same points-earning potential that they had at this time last year.
+
+And yet, it feels to me like this team has more, like there's still another gear to the Victory Green Machine that hasn't been tried or reached yet. The faithful have been waiting for them to find a way to get there, but maybe it's not the right time. It's probably better that they cruise a bit and turn it up after the All-Star break in early February.
+
+So the good news is that the Stars are still playing well and can still make a serious run at the division and good postseason positioning.
+
+## Lowlights
+
+The bad news? Their best player is hurt. Who? Jake Oettinger? No, it's Miro Heiskanen. It was against Colorado on January 4 and it seemed like a harmless collision with backup goaltender Scott Wedgewood, but he hasn't played since. NHL protocol allows teams to avoid disclosing the specific location of an injury, so it's being called a lower-body injury. I think it's CL sprain.
+
+That means team defense, already a question mark before the season started, has suffered since he's been on the shelf, struggling against a mid-tier Nashville squad, but holding its own against bottom-dwelling Minnesota and Chicago.
+
+Simply put, if the Stars are going to make a serious run to the postseason, and a deep run after that, they need him back to shore up a group that's mediocre. Even when he comes back, I suspect general manager Jim Nill will be looking to add another defenseman on or around the trade deadline on March 8.
+
+## Bright Spots
+
+The brightest spot on this roster? The arrival of one Matt Duchene, via a buyout from the Nashville Predators in the offseason. I tend to flinch a little when we bring in someone who was recently bought out; I'm concerned that we're about to find out why the player was sent packing, and it did come to pass with Ryan Suter, who seems like he's usually a step behind. But that's not the case here. Duchene has been lights out. His 14 goals and 25 assists in 41 games has him in 2nd for team scoring this season.
+
+## Conclusion
+
+I think the Stars are set up for a deep run. They have the talent and the ability to put themselves in a better position come playoff time, but they need to start ramping up their play. They'll get a chance starting tomorrow night as they host the Los Angeles Kings.
