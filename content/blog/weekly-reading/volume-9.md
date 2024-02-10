@@ -1,0 +1,40 @@
+---
+title: "Weekly Reading: Volume 9"
+description: "A mean society, Neomedievalism, and How to Fail Intelligently"
+date: 2024-02-09
+tags: ["weeklyreading"]
+---
+
+Well lookee here. The Weekly Reading series makes its triumphant return to these pages, along with a little formatting change that works better with my new workflow, which I still need to document. Each heading serves as the link to the article, so go on and give it a click.
+
+
+## [How to Save a Sad, Lonely, Angry and Mean Society - New York Times](https://www.nytimes.com/2024/01/25/opinion/art-culture-politics.html)
+
+> I’d argue that we have become so sad, lonely, angry and mean as a society in part because so many people have not been taught or don’t bother practicing to enter sympathetically into the minds of their fellow human beings. We’re overpoliticized while growing increasingly undermoralized, underspiritualized, undercultured.
+
+<!--quoteend-->
+
+> Attention is a moral act. The key to becoming a better person, Iris Murdoch wrote, is to be able to cast a “just and loving attention” on others.
+
+David Brooks gets it. Yet another reason the humanities are just as important, if not more important, than engineering or business studies.
+
+
+## [Neal Stephenson's Most Stunning Prediction - The Atlantic](https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/)
+
+> His novels coined the term [metaverse](https://www.theatlantic.com/technology/archive/2021/10/facebook-metaverse-name-change/620449/), laid the conceptual groundwork for cryptocurrency, and imagined a geoengineered planet. And nearly three decades before the release of ChatGPT, he presaged the current AI revolution.
+
+A short interview discussing his book _The Diamond Age_, along with his thoughts on the latest in artificial intelligence.
+
+
+## [Welcome to the "neomedieval era" - Vox.com](https://www.vox.com/world-politics/24062198/israel-gaza-middle-east-united-states-war-biden-china-ukraine-putin-russia-taiwan-defense-military)
+
+> Saying we live in a “neomedieval” moment doesn’t mean that a US-China war would be fought with broadswords and chain mail. The authors define the neomedieval era, which they argue began around 2000, as being “characterized by weakening states, fragmenting societies, imbalanced economies, pervasive threats, and the informalization of warfare.”
+
+I don't know. It's interesting take on the world, but states didn't have access to nuclear weapons prior to 1800s, so that makes it a little harder to accept. But I guess we'll see, since there appears to be no end to the Russia-Ukraine War and both the EU and US have elections this year.
+
+
+## [How to find success with the 4 conditions of “intelligent failure” - BigThink](https://bigthink.com/the-learning-curve/ntelligent-failure/)
+
+> The third type of failure is “intelligent failure.” These are the failures that teach us something new or improve us in some fashion. According to Edmondson: “Whereas I am in favor of minimizing the basic failures and trying to catch and correct all the problems that lead to complex failures, I think it’s a good idea to have more intelligent failures.”
+
+Remember when you were a child and tried something new, only to drop it after a little bit, or how scientists refine their hypotheses? Edmondson thinks we should embrace that type of failure as we mature, making us happier and more adventurous.
